@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @JakeKK0
-- 👀 I like videogames, RPG and Music
-- 🌱 I’m currently learning English
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: I'm writing a RPG sistem based in JoJo's Bizarre Adventure
+Olá, me chamo Henrique, mais conhecido como JakeKK nas redes sociais. Sou dev backend em C# e Unity desde Agosto de 2024. Meus conhecimentos em programação inclui Sintaxe Básica, POO (Programação Orientada a Objetos), Manipulação de Strings e Coleções. Estudo modelagem 3D, tenho conhecimentos avançados em Inglês e gosto de jogar RPG de mesa.
