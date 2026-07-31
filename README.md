@@ -43,7 +43,7 @@ Desenvolvedor autodidata focado em **C# / .NET**, apaixonado por resolver proble
 
 ### 📦 Gerenciamento de Estoque
 > *Sistema CRUD completo via terminal para controle de produtos.*
-* **Techs:** C# | POO
+* **Techs:** C# | .NET  
 * **Repositório:** [Acessar Projeto](https://github.com/JakeKK0/Gerenciamento-de-Estoque)
 
 ---
