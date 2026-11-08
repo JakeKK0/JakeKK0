@@ -35,6 +35,7 @@ Desenvolvedor autodidata focado em **C# / .NET**, apaixonado por resolver proble
 > *Projeto focado no estudo de mecânicas para jogos top-down.*
 * **Status:** Em desenvolvimento
 * **Funcionalidades:** Movimentação, combate, sistema de diálogos e interação com objetos.
+* **Repositório:** [Acessar Projeto](https://github.com/JakeKK0/An-Adventure-2D-Game)
 
 ### 🔐 Gerador de Senhas Aleatórias
 > *Aplicação em console para geração rápida de credenciais seguras.*
